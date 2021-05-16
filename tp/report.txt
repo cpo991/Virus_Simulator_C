@@ -1,0 +1,32 @@
+Simulation lasted 1 days.
+
+Room: [01]
+ID: PauloPires1	 State: S
+ID: AnaLebre34A	 State: I
+ID: Tomas111	 State: S
+ID: PauloPires2	 State: S
+ID: LuisaSantos	 State: S
+ID: Teste	 State: D
+
+Room: [02]
+ID: Zulmira2A	 State: S
+
+Room: [03]
+
+Room: [04]
+Room: [01]
+Healthy Rate: 66.67%
+Imune Rate: 16.67%
+Infected Rate: 16.67%
+Room: [02]
+Healthy Rate: 100.00%
+Imune Rate: 0.00%
+Infected Rate: 0.00%
+Room: [03]
+Healthy Rate: 0.00%
+Imune Rate: 0.00%
+Infected Rate: 0.00%
+Room: [04]
+Healthy Rate: 0.00%
+Imune Rate: 0.00%
+Infected Rate: 0.00%
